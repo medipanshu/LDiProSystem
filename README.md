@@ -15,9 +15,6 @@ Around 62 people die every day due to fire accidents in Indian households. This 
 It prevents the LPG cylinder from blast.
 It has an automatic LPG cylinder booking facility.
 
-# overview
-![overview](AbstractAndReport/overview.png)
-
 # Progress of project
 ## Current Work (Implemented)
 1. **Hardware**
@@ -35,6 +32,7 @@ It has an automatic LPG cylinder booking facility.
 
 ### Overview
 This project focuses on monitoring the usage of LPG gas in a cylinder by utilizing a load cell interfaced with an Arduino. The system records real-time weight data, analyzes consumption patterns, and provides insights into the rate of gas consumption at different times of the day.
+![overview](AbstractAndReport/overview.png)
 
 ### Components and Dependencies
 1. **Arduino Setup:**
