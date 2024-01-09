@@ -15,8 +15,6 @@ Around 62 people die every day due to fire accidents in Indian households. This 
 It prevents the LPG cylinder from blast.
 It has an automatic LPG cylinder booking facility.
 
-![Project Abstract Image](url_to_image)
-
 # Progress of project
 ## Current Work (Implemented)
 1. **Hardware**
