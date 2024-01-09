@@ -1,6 +1,6 @@
 # LDI Pro System
 
-## [Abstract](AbstractAndReport/project abstract.pdf)
+## [Abstract](https://github.com/medipanshu/LDiProSystem/blob/main/AbstractAndReport/project%20abstract.pdf)
 
 The main aims of the project are as follows:
 - To measure the weekly usage of LPG in a household.
